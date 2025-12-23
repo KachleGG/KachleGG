@@ -42,6 +42,8 @@
 | [**DriverTracker**](https://github.com/KachleGG/DriverTracker) | GPS-based driving tracker with Arduino Nano ESP32, featuring distance/time tracking & SD logging | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
 | [**IpAddrCounter**](https://github.com/KachleGG/IpAddrCounter) | IPv4 network calculator for subnetting & network info | ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) |
 | [**WocabeeHelper**](https://github.com/KachleGG/WocabeeHelper) | Browser extension that helps with vocabulary exercises - auto-indexing, hints & answer highlighting | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| [**Cloudflare-MinecraftServer-Helper**](https://github.com/KachleGG/Cloudflare-MinecraftServer-Helper) | Cloudflare DNS helper for Minecraft servers | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**Warehousr**](https://github.com/KachleGG/Warehousr) | Warehouse management application | ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) |
 
 </div>
 
@@ -51,8 +53,8 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/What%20you%20see-6%20public%20repos-38bdae?style=for-the-badge&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/What%20you%20don't-%209%20more%20private-ff6b6b?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/What%20you%20see-8%20public%20repos-38bdae?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/What%20you%20don't-%20many%20more%20private-ff6b6b?style=for-the-badge&labelColor=1a1b27" />
 
 *Most of my work lives in private repositories — client projects, personal tools, and experiments that aren't quite ready for the spotlight yet. What you see here is just the tip of the iceberg!* 
 
@@ -79,9 +81,11 @@
 
 ## 🔥 Recent Activity
 
+- Created **Cloudflare-MinecraftServer-Helper** - Python tool for managing Minecraft server DNS
+- Created **Warehousr** - C# warehouse management application
 - Working on **DiskMirrorer** - A Rust-based disk backup utility
 - Maintaining **ChatApp** - Full-stack chat platform with Vue + ASP.NET Core
-- Hardware projects with **Arduino ESP32**
+- Built **WocabeeHelper** - Browser extension for vocabulary exercises
 
 ---
 
